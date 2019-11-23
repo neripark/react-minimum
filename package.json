@@ -4,5 +4,12 @@
   "main": "index.js",
   "repository": "git@github.com:neripark/react-minimum.git",
   "author": "neripark <neripark@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
 }
